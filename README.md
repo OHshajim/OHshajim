@@ -18,8 +18,4 @@ I am Shajim Ahmend , student of computer science engineer and also a Web develop
 ## 🧰 &nbsp;Familir Tecnologies
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp;
 
-&nbsp;
-**Social Media:**
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/shajim-ahmed/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/shajim_78)
 
