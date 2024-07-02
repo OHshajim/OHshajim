@@ -14,3 +14,6 @@ I am a Web Developer. You can also check out my portfolio [Shajim-portfolio](htt
 
 &nbsp;
 
+**Social Media:**
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/shajim-ahmed/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/shajim_78)
