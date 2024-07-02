@@ -17,3 +17,10 @@ I am a Web Developer. You can also check out my portfolio [Shajim-portfolio](htt
 **Social Media:**
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/shajim-ahmed/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/shajim_78)
+[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
+[![GitHub](icons/github.png)](https://github.com/hussainweb)
+[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
+[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
+[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
