@@ -1,9 +1,9 @@
-![Hey there, I am Shajim Ahmend. I am a Web Developer.](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+Hey there, I am Shajim Ahmend. I am a Web Developer
 
 
 # 👋 &nbsp;Hi there
 
-I am a Web Developer. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs.  Feel free to tweet me any time. You can also check out my portfolio [Shajim-portfolio](https://shajim-porfolio.vercel.app/) for my details.
+I am a Web Developer. You can also check out my portfolio [Shajim-portfolio](https://shajim-porfolio.vercel.app/) for my details.
 
 
 &nbsp;
