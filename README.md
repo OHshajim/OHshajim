@@ -17,5 +17,6 @@ I am Shajim Ahmend , student of computer science engineer and also a Web develop
 &nbsp;
 ## 🌟 &nbsp; Familiar Tecnologies
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp;
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/> &nbsp;
 
 
