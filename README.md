@@ -4,7 +4,7 @@ I am Shajim Ahmend , student of computer science engineer and also a Web develop
 
 ## 🧰 &nbsp; Overview
 - 💻 Proficient in the MERN stack .
-- 🛠 I’m currently working on NextJS , DataBase Mongodb .
+- 🛠 I’m currently working on NextJS , Typescript , MongoDB .
 - 🔭 Currently looking for a job or internship opportunity.
 - 🌟 Strong understanding of front-end and back-end development.
 
