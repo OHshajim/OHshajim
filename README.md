@@ -1,3 +1,8 @@
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 # 👋 &nbsp; Hi there
 
 I am Shajim Ahmend , student of computer science engineer and also a Web developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space. You can also check out my portfolio [Shajim-portfolio](https://shajim-porfolio.vercel.app/) for my details.
