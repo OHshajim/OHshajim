@@ -20,7 +20,7 @@ I am Shajim Ahmend , student of computer science engineer and also a Web develop
 
 <p align="center">
     <br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,firebase,html,css,tailwind,bootstrap,git,github,npm,vscode,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,firebase,html,css,tailwind,bootstrap,git,github,npm,vscode&perline=14" />
     <br/>
 </p>
 
