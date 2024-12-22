@@ -30,5 +30,5 @@ I am Shajim Ahmend , student of computer science engineer and also a Web develop
 <br>
   
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OHshajim&"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OHshajim"/>
 </p>
