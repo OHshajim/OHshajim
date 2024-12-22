@@ -28,7 +28,16 @@ I am Shajim Ahmend , student of computer science engineer and also a Web develop
 <div float="flex"><h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b><br/></h2>
   
 <br>
-  
+
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OHshajim&show_icons=true&locale=en"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=OHshajim&show_icons=true&locale=en&layout=compact"/>
+  </a>
+</p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OHshajim"/>
 </p>
