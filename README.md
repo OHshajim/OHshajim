@@ -30,12 +30,8 @@ I am Shajim Ahmend , student of computer science engineer and also a Web develop
 <br>
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OHshajim&show_icons=true&locale=en"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=OHshajim&show_icons=true&locale=en&layout=compact"/>
-  </a>
 </p>
 
 <p align="center">
