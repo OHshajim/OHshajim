@@ -6,7 +6,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> &nbsp; Hi there
 
-I am Shajim Ahmend , student of computer science engineer and also a Web developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space. You can also check out my portfolio [Shajim-portfolio](https://shajim-porfolio.vercel.app/) for my details.
+I am Shajim Ahmend , student of computer science engineer and also a Web developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space. You can also check out my portfolio [Shajim-portfolio](https://shajim-portfolio.vercel.app/) for my details.
 
 ## 🧰 &nbsp; Overview
 - 💻 Proficient in the MERN stack .
